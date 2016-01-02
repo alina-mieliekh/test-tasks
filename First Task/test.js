@@ -1,4 +1,4 @@
-var teams = ['Team 1', 'Team 2', '123_deleted_Hello_deleted', 'South Park_deleted', 'Team 3_deleted'];
+var teams = ['Team 1', 'Team 2', 'Hello_deleted', 'South Park_deleted', 'Team 3_deleted'];
 
 var printTeams = function() {
     for (var i = 0; i < teams.length; i++) {
@@ -34,10 +34,10 @@ setTimeout(function(){
     var result, color;
 
     if (el('plain-teamlist').innerHTML == el('dynamic-teamlist').innerHTML){
-        result = 'Correct! :-*';
+        result = 'Correct!';
         color = 'green';
     } else {
-        result = 'Wrong, Alinochka, please, try again';
+        result = 'Wrong, please, try again';
         color = 'red';
     }
 
