@@ -1,0 +1,9 @@
+Some teams are containing "_deleted" suffix,
+its because they are marked as deleted.
+
+Please, write a function, that takes teams list,
+removes "_deleted" suffix, if its present,
+and prints comma separated teams list into
+tag with "dynamic-teamlist" id.
+
+Ideally, text in "plain-teamlist" and "dynamic-teamlist" should be the same.

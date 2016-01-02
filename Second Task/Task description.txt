@@ -1,0 +1,5 @@
+Create web-page that will looks like on "template.png".
+Red, blue and orange blocks should have 33.33% width.
+Yellow block should have 100% width.
+All four blocks should have 100px height.
+Text "Hello world" should be centered inside yellow block.
