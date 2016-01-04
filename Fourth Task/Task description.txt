@@ -1,0 +1,3 @@
+Array of Strings is given. Strings contain words and digits.
+Substitute every digit to its word equivalent.
+Then print result array so that every element would be dropdown item .
