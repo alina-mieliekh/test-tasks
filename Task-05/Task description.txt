@@ -1,0 +1,1 @@
+While typing digits in input, their word equivalent should appear under input.
