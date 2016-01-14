@@ -1,0 +1,4 @@
+UI is represented by three elements: input, button and numeric list.
+User can enter text to the input and press the button.
+While pressing the button, text from the input should be added to the end of the list.
+After that text from the input should be removed.
